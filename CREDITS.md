@@ -5,7 +5,7 @@
 *Empowering Muslims worldwide with authentic Quranic education.*
 
 ## Development Team
-**Designed & Developed by:** [Software Bazaar](https://softwarebazaar.com)  
+**Designed & Developed by:** [Software Bazaar](https://software-bazaar-official.el.r.appspot.com/)
 
 ## Technologies Used
 This project was built using the following open-source technologies:
@@ -23,3 +23,4 @@ This project was built using the following open-source technologies:
 
 ## License
 All rights reserved © 2026 Virtual Islamic Complex.
+
